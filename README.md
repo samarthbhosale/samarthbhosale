@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning Node JS Libraries.<br>🎯 Goals: Deep Dive into the ocean on Javascript<br>🎲 Fun fact: Im a Gamer..</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning Node JS Libraries.<br>🎯 Goals: Deep Dive into the ocean of Javascript<br>🎲 Fun fact: Im a Gamer..</p>
 
 ###
 
