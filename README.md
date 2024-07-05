@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im Samarth and I'm a Software Engineer from Pune,Maharashtra,India.</p>
+<p align="left">I'm Samarth and I'm a Software Engineer from Pune,Maharashtra,India.</p>
 
 ###
 
