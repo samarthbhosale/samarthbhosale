@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nestjs**
 
-- 👨‍💻 All of my projects are available at [samarthbhosale.dev](samarthbhosale.dev)
+- 👨‍💻 All of my projects are available at [samarthbhosale.dev](samarthbhosale.dev) (portfolio under developement - in progress)
 
 - 💬 Ask me about **react, nextjs, nodejs**
 
