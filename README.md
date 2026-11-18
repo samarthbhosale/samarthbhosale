@@ -114,7 +114,7 @@ My personal developer portfolio showcasing my professional experience, technical
 
 | Role | Organization | Period |
 |---|---|---|
-| Freelance Web Developer | Self-employed | May 2026 – Present |
+| Freelance Frontend Developer | Self-employed | May 2026 – Present |
 | Full Stack Developer | Pittsburgh Knights | Jul 2024 – Nov 2025 |
 | Software Engineer | Grawlix Software Pvt. Ltd. | Mar 2023 – Nov 2023 |
 
